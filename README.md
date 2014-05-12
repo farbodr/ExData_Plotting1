@@ -1,3 +1,7 @@
+
+<h1>PLEASE NOTE THAT MY PNG FILES ARE LOCATED IN THE FIGURE DIRECTORY</h1>
+
+
 ## Introduction
 
 This assignment uses data from
